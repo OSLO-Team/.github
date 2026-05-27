@@ -2,7 +2,7 @@
 <tr>
 <td width="220">
 
-<img src="https://raw.githubusercontent.com/OSLO-Team/.github/main/profile/assets/oslo-browser.png" width="180">
+<img src="https://raw.githubusercontent.com/OSLO-Team/.github/main/profile/assets/oslo-team.png" width="180">
 
 </td>
 
