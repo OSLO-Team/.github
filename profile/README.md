@@ -1,10 +1,4 @@
-<div align="center">
 
-# OSLO Team
-
-Building modern software experiences.
-
-</div>
 
 <br>
 
