@@ -21,6 +21,7 @@ Fast browsing, modern UI, workspace support, advanced security systems, privacy 
 [Release Notes](https://oslobrowser.com/releases)
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-black?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Linux-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </td>
