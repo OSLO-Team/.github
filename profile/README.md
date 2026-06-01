@@ -10,9 +10,9 @@
 
 ## OSLO Browser
 
-Modern, privacy-focused and productivity-driven web browser built with Electron.
+Modern, privacy-focused and productivity-driven desktop web browser developed by **OSLO Team**.
 
-Fast browsing, modern UI, workspace support, advanced security systems, privacy tools and customization.
+Fast browsing with a modern UI, workspace support, privacy tools, security enhancements, and advanced customization.
 
 [Contribute](https://github.com/OSLO-Team/OSLO-Browser) •
 [Website](https://oslobrowser.com) •
@@ -31,6 +31,6 @@ Fast browsing, modern UI, workspace support, advanced security systems, privacy 
 
 ## Projects
 
-- **OSLO Browser** — Modern web browser.
-- **OSLO Docs** — Official documentation hub.
-- **OSLO Team** — Development resources & standards.
+- **OSLO Browser** — Privacy-focused desktop web browser.
+- **OSLO Docs** — Official documentation, guides, and development resources.
+- **OSLO Team** — Development standards, resources, and project infrastructure.
