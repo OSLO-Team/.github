@@ -26,11 +26,3 @@ Fast browsing with a modern UI, workspace support, privacy tools, security enhan
 </td>
 </tr>
 </table>
-
----
-
-## Projects
-
-- **Zenith Browser** — Privacy-focused desktop web browser.
-- **OSLO Docs** — Official documentation, guides, and development resources.
-- **OSLO Team** — Development standards, resources, and project infrastructure.
