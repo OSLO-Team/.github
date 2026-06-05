@@ -8,17 +8,17 @@
 
 <td>
 
-## OSLO Browser
+## Zenith Browser
 
 Modern, privacy-focused and productivity-driven desktop web browser developed by **OSLO Team**.
 
 Fast browsing with a modern UI, workspace support, privacy tools, security enhancements, and advanced customization.
 
-[Contribute](https://github.com/OSLO-Team/OSLO-Browser) •
-[Website](https://oslobrowser.com) •
-[Docs](https://github.com/OSLO-Team/OSLO-Docs) •
-[Download](https://oslobrowser.com/download) •
-[Release Notes](https://oslobrowser.com/releases)
+[Contribute](https://github.com/OSLO-Team/Zenith-Browser) •
+[Website](https://zenithbrowser.com) •
+[Docs](https://github.com/OSLO-Team/Zenith-Docs) •
+[Download](https://zenithbrowser.com/download) •
+[Release Notes](https://github.com/Zenith-Team/zenith-browser/releases) •
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -31,6 +31,6 @@ Fast browsing with a modern UI, workspace support, privacy tools, security enhan
 
 ## Projects
 
-- **OSLO Browser** — Privacy-focused desktop web browser.
+- **Zenith Browser** — Privacy-focused desktop web browser.
 - **OSLO Docs** — Official documentation, guides, and development resources.
 - **OSLO Team** — Development standards, resources, and project infrastructure.
