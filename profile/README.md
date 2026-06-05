@@ -15,9 +15,9 @@ Modern, privacy-focused and productivity-driven desktop web browser developed by
 Fast browsing with a modern UI, workspace support, privacy tools, security enhancements, and advanced customization.
 
 [Contribute](https://github.com/OSLO-Team/Zenith-Browser) •
-[Website](https://zenithbrowser.com) •
+[Website](https://zenith-browser.com) •
 [Docs](https://github.com/OSLO-Team/Zenith-Docs) •
-[Download](https://zenithbrowser.com/download) •
+[Download](https://zenith-browser.com/download) •
 [Release Notes](https://github.com/Zenith-Team/zenith-browser/releases) •
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-black?style=for-the-badge)
