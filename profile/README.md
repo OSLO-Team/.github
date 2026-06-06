@@ -20,7 +20,7 @@ Fast browsing with a modern UI, workspace support, privacy tools, security enhan
 [Download](https://zenith-browser.com/download) •
 [Release Notes](https://github.com/Zenith-Team/zenith-browser/releases) •
 
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-black?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011%20%7C%20Linux-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </td>
